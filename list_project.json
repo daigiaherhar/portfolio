@@ -4,12 +4,20 @@
     "title":"TRMe",
     "logo":"",
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
-    "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+    "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
+    "html":{
+      "en":"<h1>Project</h1><p>This is a paragraph.</p>",
+      "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+    },
   },
   {
     "id":"1",
     "title":"TRMe",
     "logo":"",
+    "html":{
+      "en":"<h1>Project</h1><p>This is a paragraph.</p>",
+      "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+    },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
   }

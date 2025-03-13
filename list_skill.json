@@ -2,15 +2,36 @@
   {
     "id":"1",
     "valueStart":"0",
-    "valueCurrent":"40",
+    "valueCurrent":"85",
     "valueGoal":"100",
     "name":"Dart"
   },
   {
-    "id":"1",
+    "id":"2",
     "valueStart":"0",
-    "valueCurrent":"40",
+    "valueCurrent":"70",
     "valueGoal":"100",
-    "name":"GitHub"
-  }
+    "name":"GitHub/Bitbucket"
+  },
+  {
+    "id":"3",
+    "valueStart":"0",
+    "valueCurrent":"65",
+    "valueGoal":"100",
+    "name":"PHP"
+  },
+  {
+    "id":"4",
+    "valueStart":"0",
+    "valueCurrent":"75",
+    "valueGoal":"100",
+    "name":"Firebase"
+  },
+  {
+    "id":"4",
+    "valueStart":"0",
+    "valueCurrent":"70",
+    "valueGoal":"100",
+    "name":"API 3rd Grab, NTL, FitBit, Gramin"
+  },
 ]

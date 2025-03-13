@@ -6,8 +6,8 @@
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
     "html": {
-      "en": "<p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Mô tả: </span>TRMe is a health application that uses users' weight, height, bodyfat... to calculate challenges and diets. There are functions to make friends, send messages and post articles.</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Công nghệ:</span>GetX, Firebase</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">3rd:</span>FitBit, Garmin</span></p>",
-      "vi": "<p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Mô tả: </span>TRMe là ứng dụng hiên về sức khỏe lấy chỉ số người dùng weight, height, bodyfat... để tính toán những thử thách cho và chế độ ăn uống. Có những chức năng kết bạn nhắn tin và đăng bài viết</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Công nghệ:</span>GetX, Firebase</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">3rd:</span>FitBit, Garmin</span></p>"
+      "en":"<h1>Project</h1><p>This is a paragraph.</p>",
+      "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
     }
   },
   {

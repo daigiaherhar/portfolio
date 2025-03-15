@@ -27,7 +27,8 @@
     "logo":"https://daigiaherhar.github.io/portfolio/logo_office.jpg",
     "html":{
       "en":"<h1>Project</h1><p>This is a paragraph.</p>",
-      "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+      "vi":"<p style=\"color: #ffffff;\">Dùng API của FPT quét CCC/CMND</p><p style=\"color: #ffffff;\">Mô hình MVVM</p><p style=\"color: #ffffff;\">Dùng state management Bloc</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification và real-time số chờ</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>"
+
     },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"

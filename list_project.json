@@ -2,7 +2,7 @@
   {
     "id":"1",
     "title":"TRMe",
-    "logo":"",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_trme.png",
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
     "html": {
@@ -13,7 +13,7 @@
   {
     "id":"1",
     "title":"Warranty",
-    "logo":"",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_warranty.jpg",
     "html":{
       "en":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
       "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
@@ -24,7 +24,7 @@
   {
     "id":"1",
     "title":"Office",
-    "logo":"",
+    "logo":"https://daigiaherhar.github.io/portfolio/logo_office.jpg",
     "html":{
       "en":"<h1>Project</h1><p>This is a paragraph.</p>",
       "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"

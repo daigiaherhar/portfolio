@@ -15,12 +15,7 @@
     "title":"Warranty",
     "logo":"",
     "html":{
-      "en":"<div class="description" style="background-color: #333; padding: 20px; border-radius: 8px; display: flex; align-items: center; gap: 10px;">
-    <h2 style="color: #2196F3; margin: 0;">Mô tả:</h2>
-    <p style="color: #ffffff; margin: 0;">
-        TRMe là ứng dụng hiên về sức khỏe lấy chỉ số người dùng weight, height, bodyfat... để tính toán những thử thách cho và chế độ ăn uống. Có những chức năng kết bạn nhắn tin và đăng bài viết
-    </p>
-</div>",
+      "en":"<p><span style="color: #00ff00;">M&ocirc; tả:</span><span style="background-color: #ffffff;"> TRMe l&agrave; ứng dụng hi&ecirc;n về sức khỏe lấy chỉ số người d&ugrave;ng weight, height, bodyfat... để t&iacute;nh to&aacute;n những thử th&aacute;ch cho v&agrave; chế độ ăn uống. C&oacute; những chức năng kết bạn nhắn tin v&agrave; đăng b&agrave;i viết</span></p>",
       "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
     },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",

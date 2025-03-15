@@ -7,7 +7,7 @@
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
     "html": {
       "en": "<p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Mô tả: </span>TRMe is a health application that uses users' weight, height, bodyfat... to calculate challenges and diets. There are functions to make friends, send messages and post articles.</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Công nghệ:</span>GetX, Firebase</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">3rd:</span>FitBit, Garmin</span></p>",
-      "vi": "<p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Mô tả: </span>TRMe là ứng dụng hiên về sức khỏe lấy chỉ số người dùng weight, height, bodyfat... để tính toán những thử thách cho và chế độ ăn uống. Có những chức năng kết bạn nhắn tin và đăng bài viết</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">Công nghệ:</span>GetX, Firebase</span></p><p ><span style=\"white-space-collapse: preserve;\"><span style=\"color:#00FF00;\">3rd:</span>FitBit, Garmin</span></p>"
+      "vi": "<p><span style=\"background-color: #ffffff;\">Google Fit and Apple integration with plugin support<br /></span></p><p>Fitbit and Garmin 3rd Party API Integration</p><p><span style=\"background-color: #ffffff;\">Use state management GetX</span></p><p><span style=\"background-color: #ffffff;\">Use firebase for realtime chat</span></p><p><span style=\"background-color: #ffffff;\">Use MVC pattern</span></p><p><span style=\"background-color: #ffffff;\">Link: <a href=\"https://play.google.com/store/search?q=trme&amp;c=apps\">https://play.google.com/store/search?q=trme&amp;c=apps</a></span></p>"
     }
   },
   {
@@ -15,7 +15,7 @@
     "title":"Warranty",
     "logo":"",
     "html":{
-      "en":"<p><span style="color: #00ff00;">M&ocirc; tả:</span><span style="background-color: #ffffff;"> TRMe l&agrave; ứng dụng hi&ecirc;n về sức khỏe lấy chỉ số người d&ugrave;ng weight, height, bodyfat... để t&iacute;nh to&aacute;n những thử th&aacute;ch cho v&agrave; chế độ ăn uống. C&oacute; những chức năng kết bạn nhắn tin v&agrave; đăng b&agrave;i viết</span></p>",
+      "en":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
       "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
     },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",

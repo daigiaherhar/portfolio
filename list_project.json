@@ -26,8 +26,8 @@
     "title":"Office",
     "logo":"https://daigiaherhar.github.io/portfolio/logo_office.jpg",
     "html":{
-      "en":"<h1>Project</h1><p>This is a paragraph.</p>",
-      "vi":"<p style=\"color: #ffffff;\">Dùng API của FPT quét CCC/CMND</p><p style=\"color: #ffffff;\">Mô hình MVVM</p><p style=\"color: #ffffff;\">Dùng state management Bloc</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification và real-time số chờ</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>"
+      "en":"<p style=\"color: #ffffff;\">Use FPT API to scan CCCD/CMND</p><p style=\"color: #ffffff;\">Pattern MVVM</p><p style=\"color: #ffffff;\">Use state management Bloc</p><p style=\"color: #ffffff;\">Use Firebase for notification and real-time</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>",
+      "vi":"<p style=\"color: #ffffff;\">Dùng API của FPT quét CCCD/CMND</p><p style=\"color: #ffffff;\">Mô hình MVVM</p><p style=\"color: #ffffff;\">Dùng state management Bloc</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification và real-time số chờ</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/search?q=nsvn%20office&c=apps</a></p>"
 
     },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",

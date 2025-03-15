@@ -16,7 +16,7 @@
     "logo":"https://daigiaherhar.github.io/portfolio/logo_warranty.jpg",
     "html":{
       "en":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>",
-      "vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
+      "vi":"<p style=\"color: #ffffff;\">Tích hợp API của GRAB và Nhất Tín</p><p style=\"color: #ffffff;\">Dùng state management GetX</p><p style=\"color: #ffffff;\">Dùng Firebase cho notification</p><p style=\"color: #ffffff;\">Mô hình MVC</p><p style=\"color: #ffffff;\">Link: <a href=\"https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty\">https://play.google.com/store/apps/details?id=com.derasoft.nuskinwarranty</a></p>"
     },
     "html_en":"<h1>Project</h1><p>This is a paragraph.</p>",
     "html_vi":"<h1>là 1 trong những project víp pro</h1><p>1213fff.</p>"
